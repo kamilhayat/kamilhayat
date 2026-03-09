@@ -11,7 +11,7 @@
 - 👨‍💻 Currently working as a <b>Frontend & Full Stack Developer</b> at <b>Cyberbizz Technologies</b> (Noida, Onsite)
 - 🛠️ Tech Stack: <b>React</b>, <b>Next.js</b>, <b>Zustand</b>, <b>Tailwind CSS</b>, <b>Node.js</b>, and more!
 - 🌐 Experienced in building secure, production-ready apps with role-based authentication, admin dashboards, dynamic blogs, galleries, CRM features, and form management—using Next.js server actions, React Query, TinyMCE, and custom APIs.
-- 🛒 Latest Project: [Hayat Shoppers](https://hayatshoppers.vercel.app/) – A modern e-commerce platform
+- 🛒 Latest Project: [BGLS](https://bespokegls.com/) – A modern Event organization Website
 - 🏥 Production Web App: [Thakral Hospital](https://thakralhospital.com) – Hospital website with authentication, admin dashboard, dynamic blogs, gallery, CRM, and integrated forms.
 - 💡 Always eager to learn new technologies and take on exciting challenges.
 - 👨‍🎓 <b>B.Tech</b> from Jamia Hamdard (2024)
