@@ -40,7 +40,7 @@
 
 ### 🌟 Featured Projects
 
-- 🛒 [BGlS](https://bespokegls.com/)  
+- 🛒 [BGLS](https://bespokegls.com/)  
   <i>Event Organizing platform with modern UI, built with React, Next.js, and Tailwind.</i>
 
 - 🏥 [Thakral Hospital](https://thakralhospital.com)  
