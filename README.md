@@ -40,8 +40,8 @@
 
 ### 🌟 Featured Projects
 
-- 🛒 [Hayat Shoppers](https://hayatshoppers.vercel.app/)  
-  <i>E-commerce platform with modern UI, built with React, Next.js, and Tailwind.</i>
+- 🛒 [BGlS](https://bespokegls.com/)  
+  <i>Event Organizing platform with modern UI, built with React, Next.js, and Tailwind.</i>
 
 - 🏥 [Thakral Hospital](https://thakralhospital.com)  
   <i>Production-grade hospital website featuring authentication, admin dashboard, dynamic blog, gallery, CRM, and integrated forms.</i>
